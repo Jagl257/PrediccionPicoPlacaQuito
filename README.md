@@ -3,7 +3,7 @@ Proyecto que basado en la fecha, placa y hora predice si el auto en cuestión pu
 
 ## Uso
 
-Este es un proyecto de consola, el cual pedira al usuario tres valores: 
+Este es un proyecto de consola, el cual pedirá al usuario tres valores: 
 
 - la fecha en la que desea saber si tiene pico y placa.
 - la placa del vehiculo en cuestion
